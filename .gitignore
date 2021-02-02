@@ -1,4 +1,4 @@
 *.docx
 .Rdata
 .Rproj.user/
-
+*.tmp
